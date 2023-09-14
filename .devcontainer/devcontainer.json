@@ -1,0 +1,30 @@
+{
+  "name": "isbn9784297133221",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "service": "app",
+  "shutdownAction": "stopCompose",
+  "workspaceFolder": "/app",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "mosapride.zenkaku",
+        "rust-lang.rust-analyzer"
+      ],
+      "settings": {
+        "files.eol": "\n",
+        "editor.renderWhitespace": "all",
+        "editor.trimAutoWhitespace": true,
+        "[rust]": {
+          "editor.tabSize": 4,
+          "editor.insertSpaces": true,
+          "editor.wordBasedSuggestions": true,
+          "editor.formatOnSave": true,
+          "editor.formatOnType": true,
+          "editor.defaultFormatter": "rust-lang.rust-analyzer"
+        }
+      }
+    }
+  }
+}
