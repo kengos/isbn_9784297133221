@@ -1,5 +1,5 @@
-mod arithmetrics;
+mod arithmetic;
 
 fn main() {
-    arithmetrics::symbol();
+    arithmetic::return_max_overflow();
 }
