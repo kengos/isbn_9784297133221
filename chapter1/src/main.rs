@@ -1,5 +1,5 @@
-mod arithmetic;
+mod assign;
 
 fn main() {
-    arithmetic::return_max_overflow();
+    assign::compound_assign_method(10, 6);
 }
