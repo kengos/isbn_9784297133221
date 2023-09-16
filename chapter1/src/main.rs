@@ -1,5 +1,5 @@
-mod assign;
+mod bit;
 
 fn main() {
-    assign::compound_assign_method(10, 6);
+    bit::compound_assign_method(10, 6);
 }
