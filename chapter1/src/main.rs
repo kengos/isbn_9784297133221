@@ -1,5 +1,5 @@
-mod bit;
+mod static_val;
 
 fn main() {
-    bit::compound_assign_method(10, 6);
+    static_val::main();
 }
