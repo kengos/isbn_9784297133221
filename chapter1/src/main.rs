@@ -1,5 +1,5 @@
-mod static_val;
+mod character_type;
 
 fn main() {
-    static_val::main();
+    character_type::main();
 }
