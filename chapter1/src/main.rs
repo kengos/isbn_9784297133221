@@ -1,5 +1,5 @@
-mod character_type;
+mod slice_type;
 
 fn main() {
-    character_type::main();
+    slice_type::main();
 }
