@@ -1,5 +1,5 @@
-mod slice_type;
+mod pointer_type;
 
 fn main() {
-    slice_type::main();
+    pointer_type::main();
 }
