@@ -1,5 +1,5 @@
-mod pointer_type;
+mod branch_match;
 
 fn main() {
-    pointer_type::main();
+    branch_match::main();
 }

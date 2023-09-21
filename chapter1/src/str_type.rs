@@ -13,6 +13,7 @@ pub fn main() {
     methods_4();
     println!("----- methods_5 -----");
     methods_5();
+    foo();
 }
 
 fn declare() {
