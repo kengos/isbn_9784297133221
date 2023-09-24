@@ -1,5 +1,5 @@
-mod repeat_loop;
+mod string_type;
 
 fn main() {
-    repeat_loop::main();
+    string_type::main();
 }
