@@ -1,5 +1,5 @@
-mod string_type;
+mod datetime_type;
 
 fn main() {
-    string_type::main();
+    datetime_type::main();
 }
