@@ -1,5 +1,5 @@
-mod vec_type;
+mod linked_list_type;
 
 fn main() {
-    vec_type::main();
+    linked_list_type::main();
 }
