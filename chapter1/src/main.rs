@@ -1,5 +1,5 @@
-mod datetime_type;
+mod vec_type;
 
 fn main() {
-    datetime_type::main();
+    vec_type::main();
 }
