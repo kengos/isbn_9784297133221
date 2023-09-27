@@ -1,5 +1,5 @@
-mod linked_list_type;
+mod hash_set_type;
 
 fn main() {
-    linked_list_type::main();
+    hash_set_type::main();
 }
