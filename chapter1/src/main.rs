@@ -1,5 +1,5 @@
-mod hash_set_type;
+mod generics;
 
 fn main() {
-    hash_set_type::main();
+    generics::main();
 }
