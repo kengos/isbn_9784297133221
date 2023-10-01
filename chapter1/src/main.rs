@@ -1,5 +1,5 @@
-mod reference;
+mod life_time;
 
 fn main() {
-    reference::main();
+    life_time::main();
 }
