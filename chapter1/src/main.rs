@@ -1,5 +1,5 @@
-mod generics;
+mod ownership;
 
 fn main() {
-    generics::main();
+    ownership::main();
 }
