@@ -1,5 +1,5 @@
-mod ownership;
+mod reference;
 
 fn main() {
-    ownership::main();
+    reference::main();
 }
