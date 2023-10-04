@@ -1,5 +1,5 @@
-mod life_time;
+mod option_type;
 
 fn main() {
-    life_time::main();
+    option_type::main();
 }
