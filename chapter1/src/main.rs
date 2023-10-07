@@ -1,5 +1,5 @@
-mod option_type;
+mod result_type;
 
 fn main() {
-    option_type::main();
+    result_type::main();
 }
