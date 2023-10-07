@@ -1,5 +1,5 @@
-mod result_type;
+mod closure;
 
 fn main() {
-    result_type::main();
+    closure::main();
 }
