@@ -1,5 +1,5 @@
-mod constant_type;
+mod member;
 
 fn main() {
-    constant_type::main();
+    member::main();
 }
