@@ -1,5 +1,5 @@
-mod closure;
+mod constant_type;
 
 fn main() {
-    closure::main();
+    constant_type::main();
 }
