@@ -1,5 +1,5 @@
-mod member;
+mod customer;
 
 fn main() {
-    member::main();
+    customer::main();
 }
