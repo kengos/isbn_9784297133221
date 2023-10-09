@@ -27,7 +27,10 @@ impl Customer {
 
 impl Drop for Customer {
     fn drop(&mut self) {
-        println!("{} のインスタンスを破棄します。", self.name);
+        println!(
+            "{} {} {} {} のインスタンスを破棄します。",
+            self.id, self.name, self.address, self.email
+        );
     }
 }
 

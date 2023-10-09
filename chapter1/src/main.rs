@@ -1,5 +1,5 @@
-mod customer;
+mod border;
 
 fn main() {
-    customer::main();
+    border::main();
 }
