@@ -1,5 +1,5 @@
-mod border;
+mod enum_basic;
 
 fn main() {
-    border::main();
+    enum_basic::main();
 }
