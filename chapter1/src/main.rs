@@ -1,5 +1,5 @@
-mod enum_basic;
+mod shape_type;
 
 fn main() {
-    enum_basic::main();
+    shape_type::main();
 }
