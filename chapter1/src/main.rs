@@ -1,5 +1,5 @@
-mod shape_type;
+mod generic_season_type;
 
 fn main() {
-    shape_type::main();
+    generic_season_type::main();
 }
